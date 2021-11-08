@@ -1,0 +1,1 @@
+tworzenie uzytkownika, nadawanie mu praw
